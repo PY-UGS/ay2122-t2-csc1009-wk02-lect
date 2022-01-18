@@ -1,3 +1,8 @@
+/* Design something simple about a
+Person / Money / Account object, based on the
+lecture slide wk02 p7
+*/
+
 public class Person{
 
   private String name;
