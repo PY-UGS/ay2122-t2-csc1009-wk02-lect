@@ -1,6 +1,11 @@
-/* Design something simple about a
+/*
+
+Design something simple about a
 Person / Money / Account object, based on the
 lecture slide wk02 p7
+
+The following code is for your kick-start only,
+it may not be bug-free
 */
 
 public class Person{
